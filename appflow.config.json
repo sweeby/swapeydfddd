@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "appId": "com.swipey.app",
+      "root": ".",
+      "dependencyInstallCommand": "npm ci",
+      "webBuildCommand": "npm run build",
+      "iosPath": "ios/App"
+    }
+  ]
+}
