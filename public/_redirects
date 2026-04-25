@@ -1,0 +1,11 @@
+/api/create-checkout-session /.netlify/functions/create-checkout-session 200
+/api/verify-checkout-session /.netlify/functions/verify-checkout-session 200
+/api/create-likes-checkout /.netlify/functions/create-likes-checkout 200
+/api/verify-likes-checkout /.netlify/functions/verify-likes-checkout 200
+/api/create-coin-checkout /.netlify/functions/create-coin-checkout 200
+/api/verify-coin-purchase /.netlify/functions/verify-coin-purchase 200
+/api/create-premium-checkout /.netlify/functions/create-premium-checkout 200
+/api/verify-premium-checkout /.netlify/functions/verify-premium-checkout 200
+/api/users /.netlify/functions/users 200
+/api/swipes /.netlify/functions/swipes 200
+/*    /index.html   200
