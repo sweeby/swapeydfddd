@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "com.swipey.app",
+      "appId": "3a76f695",
       "root": ".",
       "dependencyInstallCommand": "npm ci",
       "webBuildCommand": "npm run build",
